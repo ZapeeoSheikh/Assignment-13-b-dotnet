@@ -1,0 +1,27 @@
+﻿body {
+    background-color: aquamarine;
+}
+
+#bg-img {
+    width: auto;
+    height: 200px;
+    border: dotted 5px solid red;
+}
+
+h2 {
+    color: darkmagenta;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h5 {
+    padding: 10px auto;
+    margin: 6px auto 6px 20px;
+}
+
+.detail {
+    margin: 20px;
+}
+
+p {
+    border: dashed 20px purple;
+}
